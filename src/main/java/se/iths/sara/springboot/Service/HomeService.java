@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class HomeService {
     public String helloFromService() {
-        return "Välkommen till home service :D";
+        return "Välkommen till service :D";
     }
 
 }
